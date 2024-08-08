@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/writeonlycode/hack-assembler/main/Screenshot%20from%202024-07-30%2012-34-28.png)
+![](https://github.com/writeonlycode/vm-translator/blob/e21a496c509578e3433938602ab4a0607381157d/Screenshot%20from%202024-08-08%2015-15-37.png)
 
 # VM Translator in Rust
 
